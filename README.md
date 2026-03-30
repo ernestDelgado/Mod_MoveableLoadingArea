@@ -65,6 +65,5 @@ Share feedback or suggestions
 It helps support continued development and future projects
 
 🔗 Links
-GitHub:
 https://github.com/ernestDelgado/MoveableLoadingArea
 https://www.nexusmods.com/supermarketsimulator/mods/1483
