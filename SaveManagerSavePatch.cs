@@ -26,7 +26,7 @@ namespace DeliveryZoneMover
             if (!ShouldWriteNow())
                 return;
 
-            DeliveryZoneController.SavePlacementToFile();
+            DeliveryZonePersistance.SavePlacementToFile();
         }
 
         [HarmonyPatch]
